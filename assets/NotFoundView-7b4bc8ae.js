@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as o,l as s}from"./index-7839c28a.js";const c=""+new URL("Astronaut-73cd1280.svg",import.meta.url).href,n={},r={class:"h-screen bg-not-found"},_=s("img",{src:c,alt:""},null,-1),a=[_];function d(i,l){return t(),o("div",r,a)}const m=e(n,[["render",d]]);export{m as default};
