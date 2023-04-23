@@ -1,3 +1,3 @@
 # CRMAdminDelpoy
 
-Деплой: cahnchoys.github.io/CRMAdminDelpoy
+Деплой: https://cahnchoys.github.io/CRMAdminDelpoy
