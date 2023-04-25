@@ -1,1 +1,0 @@
-System.register(["./index-legacy-f3dd0dbc.js"],(function(e,s){"use strict";var t,u;return{setters:[e=>{t=e.aa,u=e.r}],execute:function(){e("u",t("alert",(()=>{const e=u(!1),s=u("success"),t=u("");return{isMessageShown:e,messageType:s,messageText:t,showMessage:function(u,a){e.value=!0,s.value=u,t.value=a,setTimeout((()=>{e.value=!1}),3800)}}})))}}}));
