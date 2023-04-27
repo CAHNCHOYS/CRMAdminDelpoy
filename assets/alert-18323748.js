@@ -1,1 +1,0 @@
-import{aG as n,r as s}from"./index-1cb64e4a.js";const c=n("alert",()=>{const e=s(!1),t=s("success"),a=s("");function o(r,u){e.value=!0,t.value=r,a.value=u,setTimeout(()=>{e.value=!1},3800)}return{isMessageShown:e,messageType:t,messageText:a,showMessage:o}});export{c as u};
