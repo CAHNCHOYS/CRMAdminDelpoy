@@ -1,0 +1,1 @@
+import{aG as n,r as s}from"./index-619baa70.js";const c=n("alert",()=>{const e=s(!1),t=s("success"),a=s("");function o(r,u){e.value=!0,t.value=r,a.value=u,setTimeout(()=>{e.value=!1},5e3)}return{isMessageShown:e,messageType:t,messageText:a,showMessage:o}});export{c as u};
