@@ -1,0 +1,1 @@
+import{u,r as a,m as n}from"./index-0479616c.js";const g=o=>{const r=u(),t=n(),e=a(!1);return{handleLogout:async()=>{try{e.value=!0,await r.logOutUser(),t.push({name:"login-page",query:{isExpiredToken:"true",redirectedFrom:o}})}catch(s){console.log(s)}finally{e.value=!1}},isLogoutLoading:e}};export{g as u};
